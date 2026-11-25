@@ -1,0 +1,31 @@
+{
+  "name": "edgeguard-hybrid-studio",
+  "version": "1.0.0",
+  "private": true,
+  "type": "module",
+  "license": "MIT",
+  "engines": { "node": ">=24.12.0" },
+  "scripts": {
+    "dev": "vite",
+    "build": "vite build && vite build --mode extension",
+    "preview": "vite preview",
+    "test": "vitest run"
+  },
+  "dependencies": {
+    "firebase": "13.4.0",
+    "react": "19.2.9",
+    "react-dom": "19.2.9"
+  },
+  "overrides": {
+    "@grpc/grpc-js": "1.13.6"
+  },
+  "devDependencies": {
+    "@types/chrome": "0.1.43",
+    "@types/node": "^22.0.0",
+    "@types/react": "^19.2.0",
+    "@types/react-dom": "^19.2.0",
+    "typescript": "5.9.3",
+    "vite": "8.3.8",
+    "vitest": "4.1.12"
+  }
+}
