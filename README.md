@@ -62,10 +62,10 @@ The verified baseline passed type checking, both Vite builds, the worker syntax 
 
 ## Project links
 
-Planned public repository · <https://github.com/dustinliang666-blip/edgeguard-hybrid-studio>
+Public MIT repository · <https://github.com/dustinliang666-blip/edgeguard-hybrid-studio>
 
-Hosted demo · **[URL pending deployment]**
+Hosted demo · <https://dustinliang666-blip.github.io/edgeguard-hybrid-studio/>
 
-Demo video · **[URL pending upload]**
+Demo video · <https://youtu.be/CTtrGy49vu0>
 
 License · [MIT](LICENSE)

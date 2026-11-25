@@ -42,7 +42,7 @@ TypeScript, React 19.2.9, Firebase 13.4.0, Firebase AI Logic, Firebase App Check
 
 ## Try it
 
-- Planned public MIT repository · <https://github.com/dustinliang666-blip/edgeguard-hybrid-studio>
-- Hosted Web app · **[URL pending deployment]**
-- Demo video · **[URL pending upload]**
+- Public MIT repository · <https://github.com/dustinliang666-blip/edgeguard-hybrid-studio>
+- Hosted Web app · <https://dustinliang666-blip.github.io/edgeguard-hybrid-studio/>
+- Demo video · <https://youtu.be/CTtrGy49vu0>
 - Judge walkthrough and local setup · [README](README.md) · [English demo script](DEMO_SCRIPT_2M30S.md)
