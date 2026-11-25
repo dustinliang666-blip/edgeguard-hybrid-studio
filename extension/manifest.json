@@ -1,1 +1,14 @@
-// init
+{
+  "manifest_version": 3,
+  "name": "EdgeGuard Hybrid Studio",
+  "description": "Scan selected text for sensitive data and control where Gemini processes it.",
+  "version": "1.0.0",
+  "minimum_chrome_version": "116",
+  "permissions": ["sidePanel", "activeTab", "scripting"],
+  "action": { "default_title": "Open EdgeGuard Hybrid Studio" },
+  "side_panel": { "default_path": "sidepanel.html" },
+  "background": { "service_worker": "background.js" },
+  "content_security_policy": {
+    "extension_pages": "script-src 'self'; object-src 'self';"
+  }
+}
